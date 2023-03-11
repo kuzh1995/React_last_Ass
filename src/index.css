@@ -1,0 +1,42 @@
+.tm-gray-circle img{
+    width: 80px;
+    height: 80px;
+}
+.tm-block-2 {
+    max-height: 724px;
+}
+input[type="checkbox"]:checked {
+    background: url(https://templatemo.com/templates/templatemo_524_product_admin/img/check-mark.png) #394e64 center no-repeat;
+}
+.tm-product-delete-icon{
+    cursor: pointer;
+}
+.custom-select {
+    width: 100%;
+    border: none;
+    color: #acc6de;
+    height: 50px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    padding: 15px;
+    background: url(https://templatemo.com/templates/templatemo_524_product_admin/img/arrow-down.png) 98% no-repeat #50657b;
+}
+#pieChartContainer{
+    width: 320px !important;
+    height: 320px !important;
+    margin: 0 auto;
+}
+.navbar-nav li{
+    text-align: center;
+}
+.Header_active__62-7I{
+    color: #f5a623;
+}
